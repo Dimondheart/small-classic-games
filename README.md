@@ -1,4 +1,4 @@
-small-classic-games
-===================
+#Small Classic Games#
 
-Small games like tictactoe, etc.
+##What is this?##
+Small games like tictactoe.

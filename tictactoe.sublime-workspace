@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ite",
+				"itemsizes"
+			],
+			[
+				"get",
+				"get_width"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"info",
+				"infobar"
+			],
+			[
+				"top",
+				"topright"
+			],
+			[
+				"topleft",
+				"topleftcorner"
+			],
+			[
+				"topright",
+				"toprightcorner"
+			],
+			[
+				"grid",
+				"gridsize"
+			],
+			[
+				"tile",
+				"tilegrid"
+			],
+			[
+				"til",
+				"tilegrid"
+			],
+			[
+				"player2",
+				"player2Enabled"
+			],
+			[
+				"tiles",
+				"tilesize"
+			],
+			[
+				"surface",
+				"Surface"
+			],
+			[
+				"player1",
+				"player1turn"
+			],
+			[
+				"std",
+				"stderrlog"
+			],
+			[
+				"log",
+				"logtype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/main.py",
+			"settings":
+			{
+				"buffer_size": 2156,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/common.py",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/events.py",
+			"settings":
+			{
+				"buffer_size": 2098,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/graphics.py",
+			"settings":
+			{
+				"buffer_size": 1933,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/board.py",
+			"settings":
+			{
+				"buffer_size": 5808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/ai.py",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/menubar.py",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/infobar.py",
+			"settings":
+			{
+				"buffer_size": 985,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/bryan/OS_Install/Users/Bryan/Documents/GitHub/ageofcol/lib/graphics.py",
+		"/media/bryan/OS_Install/Users/Bryan/Documents/GitHub/ageofcol/lib/chatbar.py",
+		"/home/bryan/Desktop/tic tac toe/run.py",
+		"/media/bryan/OS_Install/Users/Bryan/Documents/GitHub/ageofcol/main.py",
+		"/home/bryan/Desktop/tic tac toe/run.sh",
+		"/media/bryan/BryanCB/templates/New C++ Source File.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"common.winner",
+			"4",
+			"40",
+			"common.board.winner",
+			"common.winner",
+			"common.player1turn",
+			"menubarheight",
+			"row",
+			"column",
+			"n",
+			"win",
+			"common.menubar.height",
+			"common.tilesize",
+			"tile",
+			"common.menubarheight",
+			"self.menubarheight",
+			"common.menubar.height",
+			"self",
+			"10",
+			"tiley",
+			"tiletype",
+			"tilex",
+			"         ",
+			"        ",
+			"        #",
+			"gridheight",
+			"gridwidth",
+			"gridw",
+			"owner",
+			"(40,40,40)",
+			"#  ",
+			"255"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/main.py",
+					"settings":
+					{
+						"buffer_size": 2156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/common.py",
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/events.py",
+					"settings":
+					{
+						"buffer_size": 2098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/graphics.py",
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/board.py",
+					"settings":
+					{
+						"buffer_size": 5808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4055,
+								4055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3828.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/ai.py",
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/menubar.py",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/infobar.py",
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
